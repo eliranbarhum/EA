@@ -7,3 +7,7 @@ Gartner SIEM MQ 2016
 
 http://learn.alienvault.com/gartnermq_flow/home
 
+Thick client PT -good for general knowledge how to use different tools to easily monitor applications running on pc
+
+http://resources.infosecinstitute.com/practical-thick-client-application-penetration-testing-using-damn-vulnerable-thick-client-app-part-1/
+
